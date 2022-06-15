@@ -1,0 +1,24 @@
+.App{
+    overflow: hidden;
+    color: rgb(0, 36, 47);  
+}
+
+.button {
+  border-radius: 30px;
+  border: none;
+  color: #fff;  
+  font-weight: 600;
+  font-size: 16px;
+  padding: 11px 26px 11px 26px;
+  background: linear-gradient(180deg,rgb(0, 32, 42) 25.71%, rgb(0,49,64) 99.36%);
+  box-shadow: 9px 5px 15px 1px rgba(116, 116, 116, 0.45);
+  cursor: pointer;
+}
+
+.button:hover {
+  background: rgb(0,49,64);
+}
+
+  
+
+  
