@@ -48,7 +48,7 @@ const Projects = () => {
                         </div>
                         <div className="btn-action">
                             <a href='https://github.com/pabloecarranza/FrontEnd-React---Flow' target='_blank' rel="noreferrer">GitHub</a>
-                            <a href='https://front-end-react-flow-j0kxhkkfw-pabloecarranza.vercel.app/home/' target='_blank' rel="noreferrer">Deploy</a>
+                            <a href='https://front-end-react-flow-j0kxhkkfw-pabloecarranza.vercel.app/' target='_blank' rel="noreferrer">Deploy</a>
                         </div>
                     </div>
                 </div>
