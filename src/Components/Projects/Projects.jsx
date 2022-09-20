@@ -97,14 +97,14 @@ const Projects = () => {
               </div>
               <div className="btn-action">
                 <a
-                  href="https://github.com/pabloecarranza/NewPokedex"
+                  href="https://github.com/pabloecarranza/taskeep"
                   target="_blank"
                   rel="noreferrer"
                 >
                   GitHub
                 </a>
                 <a
-                  href="https://github.com/pabloecarranza/taskeep"
+                  href="https://taskeep.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
