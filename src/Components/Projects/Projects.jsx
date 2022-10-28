@@ -64,14 +64,14 @@ const Projects = () => {
               </div>
               <div className="btn-action">
                 <a
-                  href="https://github.com/pabloecarranza/FrontEnd-React---Flow"
+                  href="https://github.com/pabloecarranza/weatherApp"
                   target="_blank"
                   rel="noreferrer"
                 >
                   GitHub
                 </a>
                 <a
-                  href="https://front-end-react-flow-j0kxhkkfw-pabloecarranza.vercel.app/"
+                  href="https://weather-app-five-psi.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
